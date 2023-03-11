@@ -8,6 +8,6 @@
 4.run compressionGif get small gif
 ```
 
-### 1.Show
-![](https://github.com/leolee1204/openAIDjango/blob/5c82ed0c931625170f17ff1b6467fd51d146c2c1/temp/step-1.jpg)
+### Show GIF
+![](https://github.com/leolee1204/dlibTrackVideo/blob/768309eb57e7edd86346ca7565c5966539abbd33/result.gif)
 
